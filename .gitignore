@@ -1,0 +1,9 @@
+# Ignore all files in the node_modules directory
+__pycache__
+.ipynb_checkpoints
+.DS_Store
+.env
+.venv
+.pytest_cache
+.ruff_cache
+.mypy_cache
